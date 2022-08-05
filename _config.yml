@@ -5,7 +5,7 @@ url: "https://superpigpp.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: "my personel website"                              # site's title
 description: "Matthew's personal Web"               # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/JB.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
