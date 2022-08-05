@@ -5,8 +5,8 @@ url: "https://superpigpp.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: "my personel website"                              # site's title
 description: "Matthew's personal Web"               # used by search engines
-avatar: assets/img/JB.png                         # Empty for no avatar in navbar
-favicon: assets/img/JB.png                             # Icon displayed in the tab
+avatar: /assets/img/JB.png                         # Empty for no avatar in navbar
+favicon: /assets/img/JB.png                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: "Matthew Personal Website"        #Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
